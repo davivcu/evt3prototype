@@ -1,7 +1,7 @@
 {
   "editionTitle": "Progetto Saba 2021",
   "badge": "alpha",
-  "editionHome": "http://vbd.humnet.unipi.it/saba/",
+  "editionHome": "https://saba-canzoniere.github.io/evt3prototype/",
   "availableEditionLevels": [
     {
       "id": "diplomatic",
