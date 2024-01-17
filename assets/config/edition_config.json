@@ -28,7 +28,7 @@
       "hidden": true
     }
   ],
-  "downloadableXMLSource": true,
+  "downloadableXMLSource": false,
   "namedEntitiesLists": {
     "persons": {
       "defaultLabel": "Persons",
