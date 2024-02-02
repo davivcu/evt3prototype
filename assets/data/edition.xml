@@ -97,16 +97,16 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
     <front>
 
-      <pb facs="01.jpg" n="1"/>
+
 
       <ab>
         <lb/>R. P. MS
         <lb/>1-18
       </ab>
 
-      <pb facs="02.jpg" n="2"/>
 
-      <pb facs="03.jpg" n="3"/>
+
+
       <fw type="pageNum" place="top_right">1</fw>
 
       <titlePage>
@@ -130,7 +130,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
       
       <body>
 
-        <pb facs="04.jpg" n="4"/>
+
         <fw type="pageNum" place="top_left">2</fw>
 
         <pb facs="05.jpg" n="5"/>
