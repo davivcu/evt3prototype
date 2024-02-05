@@ -32,6 +32,11 @@
     vertical-align: text-bottom;
 }
 
+*[place="top_left"] {
+    float: left;
+    margin-right: 1em;
+}
+
 evt-verse {
     display: block;
 }
