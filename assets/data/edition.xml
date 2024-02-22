@@ -516,9 +516,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </div>
           </div>
 
-          <pb facs="10bis.jpg" n="10bis"/>
-          
           <div n="In riva al mare" type="poem" xml:id="In_riva_al_mare">
+           <pb facs="10bis.jpg" n="10bis"/>
             <head>
               <app>
                 <lem>In riva al mare</lem>
