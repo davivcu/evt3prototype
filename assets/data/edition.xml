@@ -459,8 +459,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <l n="14">guardavo il fumo azzurro della cena.</l>
               </lg>
 
-              <lb/>
-              
+            <lb/>
+
               <note resp="#US" type="publishing"><mod change="#strato-r">&#8592; Vedi foglietto unito</mod></note>
             </div>
             <!-- GT???: non abbiamo indicazioni sulla penna rossa-->
@@ -475,8 +475,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <note place="margin-left" resp="#US" type="publishing">
               <mod change="#strato-r"><add>Dopo la "Casa della mia nutrice"</add></mod>
             </note>
-
-            <lb/>
+          
+          <lb/>
           
             <!-- GT???:  a me sembra che il titolo sia in un'altra penna, forse strato-1, forse c'è anche una rasura-->
 
@@ -514,10 +514,10 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <l n="14">e sospirando dissi un nome ai venti.</l>
               </lg>
             </div>
-          </div>
-
+          
+          <pb facs="10bis.jpg" n="10bis"/>
+          
           <div n="In riva al mare" type="poem" xml:id="In_riva_al_mare">
-           <pb facs="10bis.jpg" n="10bis"/>
             <head>
               <app>
                 <lem>In riva al mare</lem>
@@ -568,6 +568,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </lg>
           </div>
           
+          </div>
           <div type="page">
             <pb facs="11.jpg" n="11"/>
             <fw type="head" place="top_center">Poesie dell'adolescenza</fw>
