@@ -12,7 +12,7 @@
 			"iconSet": "evt",
 			"id": "imageText",
 			"label": "Image Text",
-			"enable": false
+			"enable": true
 		},
 		{
 			"icon": "txtTxt",
@@ -68,5 +68,5 @@
 	"initNavBarOpened": true,
 	"thumbnailsButton": true,
 	"viscollButton": true,
-	"theme": "metro"
+	"theme": "modern"
 }
