@@ -32,25 +32,6 @@
     vertical-align: text-bottom;
 }
 
-*[place="top_left"] {
-    float: left;
-    margin-right: 1em;
-}
-
-*[place="top_right"] {
-    float: right;
-    margin-left: 1em;
-}
-
-.head > .head {
-    border-bottom:1px solid black;
-}
-
-.ab {
-    display: inline-block;
-    margin: 1em 0 1em 0;
-}
-
 evt-verse {
     display: block;
 }
@@ -58,7 +39,7 @@ evt-verse {
 evt-page :not(evt-apparatus-entry-detail) .head {
     font-weight: bold;
     display: inline-block;
-    margin: 0.5em 0.1em 0.5em 0em;
+    padding: 0.5em 0.1em 0.5em 0em;
 }
 
 evt-page :not(evt-apparatus-entry-detail) .closer {
@@ -85,7 +66,7 @@ evt-page :not(evt-apparatus-entry-detail) .verse-num:before {
 
 .metamark[rend="line"] {
     display: block;
-    border-bottom: 1px solid black;
+    border: 1px solid black;
     margin-top:-1em;
     margin-right:70%;
 }
@@ -96,5 +77,10 @@ evt-addition evt-note {
 }
 
 .fw {
-    display: inline-block;
+    display: block;
+}
+
+[type="pageNum"][place="top_right"] {
+    float:right;
+    margin-top: -1.5rem;
 }

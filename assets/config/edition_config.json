@@ -116,7 +116,10 @@
   "readingColorDark": "rgb(101, 138, 255)",
   "externalBibliography": {
     "biblAttributeToMatch": "xml:id",
-    "elementAttributesToMatch": ["target", "source"]
+    "elementAttributesToMatch": [
+      "target",
+      "source"
+    ]
   },
   "biblView": {
     "propsToShow": [
@@ -159,5 +162,6 @@
     }
   },
   "defaultImageZoomLevel": 0.8,
-  "multiPageEngineForCriticalEdition": false
+  "multiPageEngineForCriticalEdition": false,
+  "syncZonesHighlightButton": true
 }

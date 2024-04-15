@@ -308,7 +308,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
               </signed>
             </closer>
         </div>
-
+      </div>
       <div n="Poesie dell'adolescenza" xml:id="SEZ_Poesie_dell_adolescenza">
 
         <div>
@@ -3829,7 +3829,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </l>
             </lg>
          </div>
-
+        <div>
             <pb facs="54.jpg" n="54"/>
             <fw type="head" place="top_center">Poesie giovanili (fiorentine)</fw>
             <fw type="pageNum" place="top_left">54</fw>
@@ -4432,7 +4432,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </div>
          </div>
 
-         <div id="page-64">
+         <div>
             <pb facs="64.jpg" n="64"/>
             <fw rend="align_left">64</fw>
             <fw rend="center">Versi militari</fw>
@@ -4492,7 +4492,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </div>
             </div>
          </div>
-         <div id="page-65">
+         <div>
             <pb n="65" facs="65.jpg"/>
             <fw rend="align_right">65</fw>
             <fw rend="center">Versi militari</fw>
@@ -4559,7 +4559,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </lg>
             </div>
          </div>
-         <div id="page-66">
+         <div>
             <pb n="66" facs="66.jpg"/>
             <fw rend="align_left">66</fw>
             <fw rend="center">Versi militari</fw>
@@ -4623,7 +4623,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      poesia a pag. <w corresp="#pagina_77">77</w></add></mod></note>
             </div>
          </div>
-            <div id="page-67">
+            <div>
                <pb n="67" facs="67.jpg"/>
                <fw rend="align_right">67</fw>
                <fw rend="center">Versi militari</fw>
@@ -4695,7 +4695,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      </lg>
                </div>
             </div>
-            <div id="page-68">
+            <div>
                <div n="Nella prigione" type="poem" xml:id="Nella_prigione">
                <pb n="68" facs="68.jpg"/>
                <fw rend="align_left">68</fw>
@@ -4759,7 +4759,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </div>
             </div>
 
-            <div id="page69">
+            <div>
                <div n="Ordine sparso p2">
                   <pb n="69" facs="69.jpg"/>
                   <fw rend="align_right">69</fw>
@@ -4830,7 +4830,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </div>
             </div>
 
-            <div id="page-70">
+            <div>
                <pb n="70" facs="70.jpg"/>
                <fw rend="align_left">70</fw>
                <fw rend="center">Versi militari</fw>
@@ -4883,7 +4883,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </lg>
             </div>
 
-            <div id="page-71">
+            <div>
                <pb n="71" facs="71.jpg"/>
                   <lg n="13">
                      <l n="1">Poco ascoltò; già ridere l'udiva,</l>
@@ -4949,7 +4949,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </div>
             </div>
 
-            <div id="page-72">
+            <div>
                <pb n="72" facs="72.jpg"/>
 
                <fw rend="align_left">72</fw>
@@ -5037,7 +5037,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </div>
             </div>
 
-            <div id="page-73">
+            <div>
                <pb n="73" facs="73.jpg"/>
                <fw rend="align_right">73</fw>
                <fw rend="center">Versi militari</fw>
@@ -5096,7 +5096,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </div>
             </div>
 
-         <div id="page-74">
+         <div>
             <pb n="74" facs="74.jpg"/>
             <fw rend="align_left">74</fw>
             <fw rend="center">Versi militari</fw>
@@ -5152,7 +5152,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </div>
          </div>
 
-         <div id="page-75">
+         <div>
             <pb n="75" facs="75.jpg"/>
                <fw rend="align_right">75</fw>
                <fw rend="center">Versi militari</fw>
@@ -5363,7 +5363,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </head>
             </div>
 
-            <div id="page-80">
+            <div>
                <pb n="80" facs="80.jpg"/>
                <fw rend="align_left">80</fw>
                
@@ -5398,7 +5398,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                <anchor xml:id="p80_1"/>
             </div>
 
-            <div id="page-81">                  
+            <div>                  
                <pb n="81" facs="81.jpg"/>
                <fw rend="align_right">81</fw>                           
                   <metamark function="deletion"><mod change="#strato-3"><delSpan rend="line" spanTo="#p81_1"/></mod></metamark>
@@ -5452,7 +5452,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </div>
             </div>
 
-            <div id="page-82">
+            <div>
                <pb n="82" facs="82.jpg"/>
                <fw rend="align_left">82</fw>
                
@@ -5501,7 +5501,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   </lg>
                </div>
             </div>
-            <div id="83">
+            <div>
                <pb n="83" facs="83.jpg"/>
                      <fw rend="align_right">83</fw>
                      <lg n="4">
@@ -5522,7 +5522,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      </lg>
             </div>
 
-            <div id="page-84">
+            <div>
                <pb n="84" facs="84.jpg"/>
                <fw rend="align_left">84</fw>
                <div n="Ricordo d'infanzia" type="poem" xml:id="Ricordo_d_infanzia">
@@ -5552,7 +5552,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </div>
             </div>
 
-            <div id="page-85">
+            <div>
                <pb n="85" facs="85.jpg"/>
             
                <fw rend="align_right">85</fw>
@@ -5568,7 +5568,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </div>
             </div>
 
-            <div id="page-86">
+            <div>
                <pb n="86" facs="86.jpg"/>
                <fw rend="align_left">86</fw>
                <fw rend="center">Casa e campagna</fw>
@@ -5594,7 +5594,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </div>
             </div>
 
-            <div id="page-87">
+            <div>
                <pb n="87" facs="87.jpg"/>
                <fw rend="align_right">87</fw>
                <fw rend="center">Casa e campagna</fw>
@@ -5645,7 +5645,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   </lg>
                </div>
             </div>
-            <div id="page-88">
+            <div>
                   <pb n="88" facs="88.jpg"/>
                   <fw rend="align_left">88</fw>
                   <fw rend="center">Casa e campagna</fw>
@@ -5696,7 +5696,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                      <l n="73">Tu questo hai della rondine,</l>
                   </lg>
          </div>
-         <div id="page-89">
+         <div>
                   <pb n="89" facs="89.jpg"/>
                   <fw rend="align_right">89</fw>
                   <fw rend="center">Casa e campagna</fw>
@@ -5723,7 +5723,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   <note type="editorial" resp="#US"><mod change="#strato-2"><add place="below">Ricordo<lb/>(pag. nuova)<lb/>dopo una facciata bianca</add></mod></note>
          </div>
 
-         <div id="page-90">
+         <div>
             <pb n="90" facs="90.jpg"/>
                <fw rend="align_left">90</fw>
                <fw rend="center">Casa e campagna</fw>
@@ -5772,7 +5772,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </lg>
             </div>
          </div>
-         <div id="page-91">
+         <div>
                <pb n="91" facs="91.jpg"/>
                   <fw rend="align_right">91</fw>
                   <fw rend="center">Casa e campagna</fw>
@@ -5791,7 +5791,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </lg>
                   <note type="editorial" resp="#US"><mod change="#strato-2"><metamark rend="cross"/></mod></note>
          </div>
-         <div id="page-92">
+         <div>
                <pb n="92" facs="92.jpg"/>
                <fw rend="align_left">92</fw>
                <fw rend="center">Casa e campagna</fw>
@@ -5829,7 +5829,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                </div>
          </div>
 
-         <div id="page-93">
+         <div>
             <pb n="93" facs="93.jpg"/>
             <div n="Intermezzo a Lina" type="poem" xml:id="Intermezzo_a_Lina">
                <note type="editorial" resp="#US"><mod change="#strato-r"><add place="above">Trasportare questa poesia alle pag. seguenti<lb/> (94-95),<lb/> lasciando <lb/> in<lb/> bianco<lb/> questo<lb/> foglio</add></mod></note>
@@ -5893,7 +5893,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             </div>
          </div>
          
-         <div id="page-94">
+         <div>
             <pb n="94" facs="94.jpg"/>
                <fw rend="align_left">94</fw>
                <fw rend="center">intermezzo a Lina</fw>
